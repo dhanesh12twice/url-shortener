@@ -1,1 +1,1 @@
-This is a url shortener application which uses Node js and other frameworks to construct the app. <a href='https://youtube.com'>youtube</a>Find and search the url shortener using node js project.Yea thats how i got my project.
+This is a url shortener application which uses Node js,Express ,Html . Generally a URL shortener service is a webservice used to shorten the URL links so to avoiding the browser to store a huge data for the long urls.It uses the Hashing technique to set shorten links for the original URL.
